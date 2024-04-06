@@ -10,22 +10,26 @@ Courses
 <li>Learn HTML Forms by Building a Registration Form
 <li>Survey Form
 </ul>
-
-Learn the CSS Box Model by Building a Rothko Painting
-Learn CSS Flexbox by Building a Photo Gallery
-Learn Typography by Building a Nutrition Label
-Learn Accessibility by Building a Quiz
-Tribute Page
-
-Learn More About CSS Pseudo Selectors by Building A Balance Sheet
-Learn Intermediate CSS by Building a Cat Painting
-Learn Responsive Web Design by Building a Piano
-Technical Documentation Page
-
-Learn CSS Variables by Building a City Skyline
-Learn CSS Grid by Building a Magazine
-Product Landing Page
-
-Learn CSS Animation by Building a Ferris Wheel
-Learn CSS Transforms by Building a Penguin
-Personal Portfolio Webpage
+<ul>
+<li>Learn the CSS Box Model by Building a Rothko Painting
+<li>Learn CSS Flexbox by Building a Photo Gallery
+<li>Learn Typography by Building a Nutrition Label
+<li>Learn Accessibility by Building a Quiz
+<li>Tribute Page
+</ul>
+<ul>
+<li>Learn More About CSS Pseudo Selectors by Building A Balance Sheet
+<li>Learn Intermediate CSS by Building a Cat Painting
+<li>Learn Responsive Web Design by Building a Piano
+<li>Technical Documentation Page
+</ul>
+<ul>
+<li>Learn CSS Variables by Building a City Skyline
+<li>Learn CSS Grid by Building a Magazine
+<li>Product Landing Page
+</ul>
+<ul>
+<li>Learn CSS Animation by Building a Ferris Wheel
+<li>Learn CSS Transforms by Building a Penguin
+<li>Personal Portfolio Webpage
+</ul>
