@@ -4,32 +4,32 @@ Finally, you'll learn how to make webpages that respond to different screen size
 
 <h3>Courses</h3>
 <ul>
-<li>Learn HTML by Building a Cat Photo App
+<li><a href="">Learn HTML by Building a Cat Photo App</a>
 <li><a href="https://github.com/lajuman/Responsive-Web-Design/tree/main/CafeMenu">Learn Basic CSS by Building a Cafe Menu</a>
-<li>Learn CSS Colors by Building a Set of Colored Markers
-<li>Learn HTML Forms by Building a Registration Form
-<li><strong>Survey Form</strong>
+<li><a href="">Learn CSS Colors by Building a Set of Colored Markers</a>
+<li><a href="">Learn HTML Forms by Building a Registration Form</a>
+<li><a href=""><strong>Survey Form</strong></a>
 </ul>
 <ul>
-<li>Learn the CSS Box Model by Building a Rothko Painting
-<li>Learn CSS Flexbox by Building a Photo Gallery
-<li>Learn Typography by Building a Nutrition Label
-<li>Learn Accessibility by Building a Quiz
-<li><strong>Tribute Page</strong>
+<li>Learn the CSS Box Model by Building a Rothko Painting</a>
+<li>Learn CSS Flexbox by Building a Photo Gallery</a>
+<li><a href="">Learn Typography by Building a Nutrition Label</a>
+<li><a href="">Learn Accessibility by Building a Quiz</a>
+<li><a href=""><strong>Tribute Page</strong></a>
 </ul>
 <ul>
 <li><a href="https://github.com/lajuman/Responsive-Web-Design/tree/main/BalanceSheet">Learn More About CSS Pseudo Selectors by Building A Balance Sheet</a>
 <li><a href="https://github.com/lajuman/Responsive-Web-Design/tree/main/CatPainting">Learn Intermediate CSS by Building a Cat Painting</a>
-<li>Learn Responsive Web Design by Building a Piano
-<li><strong>Technical Documentation Page</strong>
+<li><a href="">Learn Responsive Web Design by Building a Piano</a>
+<li><a href=""><strong>Technical Documentation Page</strong></a>
 </ul>
 <ul>
-<li>Learn CSS Variables by Building a City Skyline
-<li>Learn CSS Grid by Building a Magazine
-<li><strong>Product Landing Page</strong>
+<li><a href="">Learn CSS Variables by Building a City Skyline</a>
+<li><a href="">Learn CSS Grid by Building a Magazine</a>
+<li><a href=""><strong>Product Landing Page</strong></a>
 </ul>
 <ul>
-<li>Learn CSS Animation by Building a Ferris Wheel
-<li>Learn CSS Transforms by Building a Penguin
-<li><strong>Personal Portfolio Webpage</strong>
+<li><a href="">Learn CSS Animation by Building a Ferris Wheel</a>
+<li><a href="">Learn CSS Transforms by Building a Penguin</a>
+<li><a href=""><strong>Personal Portfolio Webpage</strong></a>
 </ul>
