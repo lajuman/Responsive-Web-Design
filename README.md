@@ -7,14 +7,14 @@ Finally, you'll learn how to make webpages that respond to different screen size
 <li><a href="https://github.com/lajuman/Responsive-Web-Design/tree/main/CatPhotoApp">Learn HTML by Building a Cat Photo App</a>
 <li><a href="https://github.com/lajuman/Responsive-Web-Design/tree/main/CafeMenu">Learn Basic CSS by Building a Cafe Menu</a>
 <li><a href="https://github.com/lajuman/Responsive-Web-Design/tree/main/ColoredMarkers">Learn CSS Colors by Building a Set of Colored Markers</a>
-<li><a href="">Learn HTML Forms by Building a Registration Form</a>
-<li><a href=""><strong>Survey Form</strong></a>
+<li><a href="https://github.com/lajuman/Responsive-Web-Design/tree/main/RegistrationForm">Learn HTML Forms by Building a Registration Form</a>
+<li><a href="https://github.com/lajuman/Responsive-Web-Design/tree/main/SurveyForm"><strong>Survey Form</strong></a>
 </ul>
 <ul>
-<li><a href="">Learn the CSS Box Model by Building a Rothko Painting</a>
+<li><a href="https://github.com/lajuman/Responsive-Web-Design/tree/main/RothkoPainting">Learn the CSS Box Model by Building a Rothko Painting</a>
 <li><a href="https://github.com/lajuman/Responsive-Web-Design/tree/main/PhotoGallery">Learn CSS Flexbox by Building a Photo Gallery</a>
 <li><a href="https://github.com/lajuman/Responsive-Web-Design/tree/main/NutritionLabel">Learn Typography by Building a Nutrition Label</a>
-<li><a href="">Learn Accessibility by Building a Quiz</a>
+<li><a href="https://github.com/lajuman/Responsive-Web-Design/tree/main/Quiz">Learn Accessibility by Building a Quiz</a>
 <li><a href=""><strong>Tribute Page</strong></a>
 </ul>
 <ul>
