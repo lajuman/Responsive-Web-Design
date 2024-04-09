@@ -5,7 +5,7 @@ Finally, you'll learn how to make webpages that respond to different screen size
 <h3>Courses</h3>
 <ul>
 <li>Learn HTML by Building a Cat Photo App
-<li>Learn Basic CSS by Building a Cafe Menu
+<li><a href="https://github.com/lajuman/Responsive-Web-Design/tree/main/CafeMenu">Learn Basic CSS by Building a Cafe Menu</a>
 <li>Learn CSS Colors by Building a Set of Colored Markers
 <li>Learn HTML Forms by Building a Registration Form
 <li><strong>Survey Form</strong>
@@ -19,7 +19,7 @@ Finally, you'll learn how to make webpages that respond to different screen size
 </ul>
 <ul>
 <li><a href="https://github.com/lajuman/Responsive-Web-Design/tree/main/BalanceSheet">Learn More About CSS Pseudo Selectors by Building A Balance Sheet</a>
-<li>Learn Intermediate CSS by Building a Cat Painting
+<li><a href="https://github.com/lajuman/Responsive-Web-Design/tree/main/CatPainting">Learn Intermediate CSS by Building a Cat Painting</a>
 <li>Learn Responsive Web Design by Building a Piano
 <li><strong>Technical Documentation Page</strong>
 </ul>
