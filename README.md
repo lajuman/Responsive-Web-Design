@@ -18,7 +18,7 @@ Finally, you'll learn how to make webpages that respond to different screen size
 <li><strong>Tribute Page</strong>
 </ul>
 <ul>
-<li>Learn More About CSS Pseudo Selectors by Building A Balance Sheet
+<li><a href="https://github.com/lajuman/Responsive-Web-Design/tree/main/BalanceSheet">Learn More About CSS Pseudo Selectors by Building A Balance Sheet</a>
 <li>Learn Intermediate CSS by Building a Cat Painting
 <li>Learn Responsive Web Design by Building a Piano
 <li><strong>Technical Documentation Page</strong>
