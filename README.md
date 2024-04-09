@@ -12,7 +12,7 @@ Finally, you'll learn how to make webpages that respond to different screen size
 </ul>
 <ul>
 <li><a href="">Learn the CSS Box Model by Building a Rothko Painting</a>
-<li><a href="">Learn CSS Flexbox by Building a Photo Gallery</a>
+<li><a href="https://github.com/lajuman/Responsive-Web-Design/tree/main/PhotoGallery">Learn CSS Flexbox by Building a Photo Gallery</a>
 <li><a href="https://github.com/lajuman/Responsive-Web-Design/tree/main/NutritionLabel">Learn Typography by Building a Nutrition Label</a>
 <li><a href="">Learn Accessibility by Building a Quiz</a>
 <li><a href=""><strong>Tribute Page</strong></a>
@@ -20,16 +20,16 @@ Finally, you'll learn how to make webpages that respond to different screen size
 <ul>
 <li><a href="https://github.com/lajuman/Responsive-Web-Design/tree/main/BalanceSheet">Learn More About CSS Pseudo Selectors by Building A Balance Sheet</a>
 <li><a href="https://github.com/lajuman/Responsive-Web-Design/tree/main/CatPainting">Learn Intermediate CSS by Building a Cat Painting</a>
-<li><a href="">Learn Responsive Web Design by Building a Piano</a>
+<li><a href="https://github.com/lajuman/Responsive-Web-Design/tree/main/Piano">Learn Responsive Web Design by Building a Piano</a>
 <li><a href=""><strong>Technical Documentation Page</strong></a>
 </ul>
 <ul>
 <li><a href="https://github.com/lajuman/Responsive-Web-Design/tree/main/CitySkyline">Learn CSS Variables by Building a City Skyline</a>
 <li><a href="https://github.com/lajuman/Responsive-Web-Design/tree/main/Magazine">Learn CSS Grid by Building a Magazine</a>
-<li><a href=""><strong>Product Landing Page</strong></a>
+<li><a href="https://github.com/lajuman/Responsive-Web-Design/tree/main/ProductLandingPage"><strong>Product Landing Page</strong></a>
 </ul>
 <ul>
 <li><a href="https://github.com/lajuman/Responsive-Web-Design/tree/main/FerrisWheel">Learn CSS Animation by Building a Ferris Wheel</a>
-<li><a href="">Learn CSS Transforms by Building a Penguin</a>
+<li><a href="https://github.com/lajuman/Responsive-Web-Design/tree/main/Penguin">Learn CSS Transforms by Building a Penguin</a>
 <li><a href=""><strong>Personal Portfolio Webpage</strong></a>
 </ul>
