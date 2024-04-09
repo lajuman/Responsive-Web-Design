@@ -4,16 +4,16 @@ Finally, you'll learn how to make webpages that respond to different screen size
 
 <h3>Courses</h3>
 <ul>
-<li><a href="">Learn HTML by Building a Cat Photo App</a>
+<li><a href="https://github.com/lajuman/Responsive-Web-Design/tree/main/CatPhotoApp">Learn HTML by Building a Cat Photo App</a>
 <li><a href="https://github.com/lajuman/Responsive-Web-Design/tree/main/CafeMenu">Learn Basic CSS by Building a Cafe Menu</a>
-<li><a href="">Learn CSS Colors by Building a Set of Colored Markers</a>
+<li><a href="https://github.com/lajuman/Responsive-Web-Design/tree/main/ColoredMarkers">Learn CSS Colors by Building a Set of Colored Markers</a>
 <li><a href="">Learn HTML Forms by Building a Registration Form</a>
 <li><a href=""><strong>Survey Form</strong></a>
 </ul>
 <ul>
-<li>Learn the CSS Box Model by Building a Rothko Painting</a>
-<li>Learn CSS Flexbox by Building a Photo Gallery</a>
-<li><a href="">Learn Typography by Building a Nutrition Label</a>
+<li><a href="">Learn the CSS Box Model by Building a Rothko Painting</a>
+<li><a href="">Learn CSS Flexbox by Building a Photo Gallery</a>
+<li><a href="https://github.com/lajuman/Responsive-Web-Design/tree/main/NutritionLabel">Learn Typography by Building a Nutrition Label</a>
 <li><a href="">Learn Accessibility by Building a Quiz</a>
 <li><a href=""><strong>Tribute Page</strong></a>
 </ul>
@@ -24,12 +24,12 @@ Finally, you'll learn how to make webpages that respond to different screen size
 <li><a href=""><strong>Technical Documentation Page</strong></a>
 </ul>
 <ul>
-<li><a href="">Learn CSS Variables by Building a City Skyline</a>
-<li><a href="">Learn CSS Grid by Building a Magazine</a>
+<li><a href="https://github.com/lajuman/Responsive-Web-Design/tree/main/CitySkyline">Learn CSS Variables by Building a City Skyline</a>
+<li><a href="https://github.com/lajuman/Responsive-Web-Design/tree/main/Magazine">Learn CSS Grid by Building a Magazine</a>
 <li><a href=""><strong>Product Landing Page</strong></a>
 </ul>
 <ul>
-<li><a href="">Learn CSS Animation by Building a Ferris Wheel</a>
+<li><a href="https://github.com/lajuman/Responsive-Web-Design/tree/main/FerrisWheel">Learn CSS Animation by Building a Ferris Wheel</a>
 <li><a href="">Learn CSS Transforms by Building a Penguin</a>
 <li><a href=""><strong>Personal Portfolio Webpage</strong></a>
 </ul>
